@@ -1,0 +1,162 @@
+﻿Material,City,Country,Latitude,Longitude
+Cement,Ankara,Turkey,39.9334, 32.8597
+Steel,Pittsburgh,USA,40.4406, -79.9959
+Concrete,Rome,Italy,41.9028, 12.4964
+Brick,London,UK,51.5074, -0.1278
+Timber,Vancouver,Canada,49.2827, -123.1207
+Aluminum,Shanghai,China,31.2304, 121.4737
+Glass,Munich,Germany,48.1351, 11.5820
+Plastic,Dubai,UAE,25.276987, 55.296249
+Copper,Santiago,Chile,-33.4489, -70.6693
+Asphalt,Houston,USA,29.7604, -95.3698
+Granite,Ankara,Turkey,39.9334, 32.8597
+Limestone,Pittsburgh,USA,40.4406, -79.9959
+Marble,Rome,Italy,41.9028, 12.4964
+Slate,London,UK,51.5074, -0.1278
+Sandstone,Vancouver,Canada,49.2827, -123.1207
+Gravel,Shanghai,China,31.2304, 121.4737
+Sand,Munich,Germany,48.1351, 11.5820
+Clay,Dubai,UAE,25.276987, 55.296249
+Gypsum,Santiago,Chile,-33.4489, -70.6693
+Bamboo,Houston,USA,29.7604, -95.3698
+Polyvinyl Chloride (PVC),Ankara,Turkey,39.9334, 32.8597
+Polyethylene,Pittsburgh,USA,40.4406, -79.9959
+Polystyrene,Rome,Italy,41.9028, 12.4964
+Fiberglass,London,UK,51.5074, -0.1278
+Carbon Fiber,Vancouver,Canada,49.2827, -123.1207
+Rubber,Shanghai,China,31.2304, 121.4737
+Silicone,Munich,Germany,48.1351, 11.5820
+Lead,Dubai,UAE,25.276987, 55.296249
+Zinc,Santiago,Chile,-33.4489, -70.6693
+Nickel,Houston,USA,29.7604, -95.3698
+Tin,Ankara,Turkey,39.9334, 32.8597
+Titanium,Pittsburgh,USA,40.4406, -79.9959
+Molybdenum,Rome,Italy,41.9028, 12.4964
+Tungsten,London,UK,51.5074, -0.1278
+Magnesium,Vancouver,Canada,49.2827, -123.1207
+Plaster,Shanghai,China,31.2304, 121.4737
+Lime,Munich,Germany,48.1351, 11.5820
+Bitumen,Dubai,UAE,25.276987, 55.296249
+Polyurethane,Santiago,Chile,-33.4489, -70.6693
+Epoxy,Houston,USA,29.7604, -95.3698
+Acrylic,Ankara,Turkey,39.9334, 32.8597
+Silica,Pittsburgh,USA,40.4406, -79.9959
+Dolomite,Rome,Italy,41.9028, 12.4964
+Phosphate,London,UK,51.5074, -0.1278
+Barite,Vancouver,Canada,49.2827, -123.1207
+Feldspar,Shanghai,China,31.2304, 121.4737
+Quartz,Munich,Germany,48.1351, 11.5820
+Mica,Dubai,UAE,25.276987, 55.296249
+Basalt,Santiago,Chile,-33.4489, -70.6693
+Peat,Houston,USA,29.7604, -95.3698
+Hemp,Ankara,Turkey,39.9334, 32.8597
+Cork,Pittsburgh,USA,40.4406, -79.9959
+Soy,Rome,Italy,41.9028, 12.4964
+Recycled Glass,London,UK,51.5074, -0.1278
+Recycled Concrete,Vancouver,Canada,49.2827, -123.1207
+Recycled Plastic,Shanghai,China,31.2304, 121.4737
+Recycled Steel,Munich,Germany,48.1351, 11.5820
+Recycled Aluminum,Dubai,UAE,25.276987, 55.296249
+Cellulose Insulation,Santiago,Chile,-33.4489, -70.6693
+Wool Insulation,Houston,USA,29.7604, -95.3698
+Straw Bale,Ankara,Turkey,39.9334, 32.8597
+Adobe,Pittsburgh,USA,40.4406, -79.9959
+Rammed Earth,Rome,Italy,41.9028, 12.4964
+SIP Panels,London,UK,51.5074, -0.1278
+ICF Blocks,Vancouver,Canada,49.2827, -123.1207
+Aerogel Insulation,Shanghai,China,31.2304, 121.4737
+Mud Brick,Munich,Germany,48.1351, 11.5820
+Cob,Dubai,UAE,25.276987, 55.296249
+Terrazzo,Santiago,Chile,-33.4489, -70.6693
+Linoleum,Houston,USA,29.7604, -95.3698
+Bamboo Flooring,Ankara,Turkey,39.9334, 32.8597
+Cork Flooring,Pittsburgh,USA,40.4406, -79.9959
+Rubber Flooring,Rome,Italy,41.9028, 12.4964
+Terracotta Tile,London,UK,51.5074, -0.1278
+Porcelain Tile,Vancouver,Canada,49.2827, -123.1207
+Ceramic Tile,Shanghai,China,31.2304, 121.4737
+Glass Tile,Munich,Germany,48.1351, 11.5820
+Stone Tile,Dubai,UAE,25.276987, 55.296249
+Metal Tile,Santiago,Chile,-33.4489, -70.6693
+Composite Decking,Houston,USA,29.7604, -95.3698
+Plywood,Ankara,Turkey,39.9334, 32.8597
+MDF,Pittsburgh,USA,40.4406, -79.9959
+Particleboard,Rome,Italy,41.9028, 12.4964
+Hardboard,London,UK,51.5074, -0.1278
+LVL,Vancouver,Canada,49.2827, -123.1207
+OSB,Shanghai,China,31.2304, 121.4737
+Acoustic Panel,Munich,Germany,48.1351, 11.5820
+LED Lighting,Dubai,UAE,25.276987, 55.296249
+Solar Panels,Santiago,Chile,-33.4489, -70.6693
+Wind Turbines,Houston,USA,29.7604, -95.3698
+Geothermal Pipes,Ankara,Turkey,39.9334, 32.8597
+Rainwater Harvesting Systems,Pittsburgh,USA,40.4406, -79.9959
+Greywater Recycling Systems,Rome,Italy,41.9028, 12.4964
+Green Roofs,London,UK,51.5074, -0.1278
+Living Walls,Vancouver,Canada,49.2827, -123.1207
+Thermal Mass Materials,Shanghai,China,31.2304, 121.4737
+Phase Change Materials,Munich,Germany,48.1351, 11.5820
+Low-E Glass,Dubai,UAE,25.276987, 55.296249
+Smart Glass,Santiago,Chile,-33.4489, -70.6693
+Insulating Concrete Forms,Houston,USA,29.7604, -95.3698
+Light Gauge Steel Framing,Ankara,Turkey,39.9334, 32.8597
+Structural Insulated Panels,Pittsburgh,USA,40.4406, -79.9959
+Cross-Laminated Timber,Rome,Italy,41.9028, 12.4964
+Glulam Beams,London,UK,51.5074, -0.1278
+Precast Concrete,Vancouver,Canada,49.2827, -123.1207
+Modular Building Components,Shanghai,China,31.2304, 121.4737
+3D Printed Elements,Munich,Germany,48.1351, 11.5820
+Bio-based Plastics,Dubai,UAE,25.276987, 55.296249
+Natural Fiber Composites,Santiago,Chile,-33.4489, -70.6693
+Mycelium Composites,Houston,USA,29.7604, -95.3698
+Algae-based Materials,Ankara,Turkey,39.9334, 32.8597
+Nanomaterials,Pittsburgh,USA,40.4406, -79.9959
+Shape Memory Alloys,Rome,Italy,41.9028, 12.4964
+Self-healing Concrete,London,UK,51.5074, -0.1278
+Photovoltaic Glass,Vancouver,Canada,49.2827, -123.1207
+Electrochromic Materials,Shanghai,China,31.2304, 121.4737
+Thermochromic Materials,Munich,Germany,48.1351, 11.5820
+Hydrophobic Materials,Dubai,UAE,25.276987, 55.296249
+Aerated Concrete,Santiago,Chile,-33.4489, -70.6693
+Magnesium Oxide Wallboard,Houston,USA,29.7604, -95.3698
+Kevlar,Ankara,Turkey,39.9334, 32.8597
+Graphene,Pittsburgh,USA,40.4406, -79.9959
+Permeable Concrete,Rome,Italy,41.9028, 12.4964
+Asphalt Shingles,London,UK,51.5074, -0.1278
+Metal Roofing,Vancouver,Canada,49.2827, -123.1207
+Green Roofing Materials,Shanghai,China,31.2304, 121.4737
+Waterproof Membranes,Munich,Germany,48.1351, 11.5820
+Roof Insulation,Dubai,UAE,25.276987, 55.296249
+Wall Insulation,Santiago,Chile,-33.4489, -70.6693
+Floor Insulation,Houston,USA,29.7604, -95.3698
+Ceiling Insulation,Ankara,Turkey,39.9334, 32.8597
+Pipe Insulation,Pittsburgh,USA,40.4406, -79.9959
+Window Insulation,Rome,Italy,41.9028, 12.4964
+Door Insulation,London,UK,51.5074, -0.1278
+Sealants,Vancouver,Canada,49.2827, -123.1207
+Adhesives,Shanghai,China,31.2304, 121.4737
+Paints,Munich,Germany,48.1351, 11.5820
+Stains,Dubai,UAE,25.276987, 55.296249
+Varnishes,Santiago,Chile,-33.4489, -70.6693
+Primers,Houston,USA,29.7604, -95.3698
+Underlayments,Ankara,Turkey,39.9334, 32.8597
+Screeds,Pittsburgh,USA,40.4406, -79.9959
+Mortar,Rome,Italy,41.9028, 12.4964
+Grout,London,UK,51.5074, -0.1278
+Fixtures,Vancouver,Canada,49.2827, -123.1207
+Fittings,Shanghai,China,31.2304, 121.4737
+Hardware,Munich,Germany,48.1351, 11.5820
+Lighting,Dubai,UAE,25.276987, 55.296249
+Electrical Components,Santiago,Chile,-33.4489, -70.6693
+Plumbing Components,Houston,USA,29.7604, -95.3698
+HVAC Components,Ankara,Turkey,39.9334, 32.8597
+Security Systems,Pittsburgh,USA,40.4406, -79.9959
+Automation Systems,Rome,Italy,41.9028, 12.4964
+Fire Protection Systems,London,UK,51.5074, -0.1278
+Soundproofing Materials,Vancouver,Canada,49.2827, -123.1207
+Decorative Materials,Shanghai,China,31.2304, 121.4737
+Functional Coatings,Munich,Germany,48.1351, 11.5820
+Protective Coatings,Dubai,UAE,25.276987, 55.296249
+Energy Storage Systems,Santiago,Chile,-33.4489, -70.6693
+Water Filtration Systems,Houston,USA,29.7604, -95.3698
+Waste Management Systems,Ankara,Turkey,39.9334, 32.8597
